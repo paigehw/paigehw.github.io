@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Paige's Website
 
-You can use the [editor on GitHub](https://github.com/paigehw/paigehw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here's my [wordpress page](https://paigehwilliams.wordpress.com), I'm trying to figure them both out-- hopefully I'll learn something!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The theme I'm using is called [Jekyll](https://jekyllrb.com/). 
 
 ### Markdown
 
